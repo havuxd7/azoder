@@ -1,0 +1,91 @@
+.nav-bar {
+    background:#bf96d2 ;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    padding-top: 5vw;
+    font-family: "Sofia";
+}
+#nav-bar li {
+    list-style-type: none;
+    padding-left: 40px;
+}
+#nav-bar li a {
+    color: white;
+    font-size: x-large;
+}
+#content img {
+    width: 100%;
+}
+#baner2 {
+    background:#d290f1;
+    margin: 0;
+    height: 28vw;
+}
+#baner2 p {
+    margin: 10vw 0px;
+    margin-left: 123px;
+    color: #fff;
+}
+#baner2 img {
+    width: 75%;
+    margin: 57px 0;
+}
+#baner3 {
+    background:white;
+    margin: 0;
+    height: 22vw;
+}
+#baner3 img {
+    width: 93%;
+}
+#baner3 h3 {
+    padding-top: 89px;
+    color: #a85dca;
+}
+#baner3 p {
+    margin: 20px 0px;
+    color: #a85dca;
+}
+#baner4 {
+    background: #bf96d2;
+    color: #fff;
+}
+#baner4 h2, h3{
+    text-align: center;
+    padding-top: 15px;
+}
+#baner4 h2 span {
+    font-family: "Sofia";
+    border-bottom: 4px solid #fff;
+}
+#baner4 img {
+    width: 15%;
+    margin: 5vw 4vw;
+    margin-left: 9vw;
+}
+.fas{
+    font-size: xxx-large;
+}
+#baner5 {
+    background: #e4d6eb;
+    color: #a85dca;
+    height: 17vw;
+}
+#baner5 .col-12 {
+    text-align: center;
+    padding-top: 25px;
+}
+#baner6 {
+    background: #bf96d2;
+    color: #fff;
+    height: 20vw;
+}
+#baner6 span{
+    color: #a85dca;
+    line-height: 2.5;
+    float: right;
+}
+#video {
+    padding-top: 20px;
+}
